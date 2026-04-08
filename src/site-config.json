@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Electrical Experts Of San Diego",
+    "phone": "+18583924102",
+    "category": "electrician",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Diego's Trusted Electrical Experts",
+      "heroSubline": "Delivering reliable electrical solutions across San Diego County. Licensed, insured, and ready to tackle any project.",
+      "aboutTitle": "Powering San Diego Homes and Businesses Since 2012",
+      "aboutText": [
+        "Electrical Experts Of San Diego started with a simple mission: to provide honest, reliable electrical services to our neighbors. We saw a need for electricians who prioritized quality workmanship and clear communication, and we've built our reputation on exceeding those expectations.",
+        "Our approach is straightforward: diagnose the problem accurately, explain the solution clearly, and execute the work flawlessly. We believe in doing the job right the first time, using only the highest quality materials and adhering to all safety standards. We strive to ensure every project meets and exceeds California electrical codes.",
+        "As a local San Diego business, we're committed to giving back to the community that supports us. We actively participate in local initiatives and prioritize hiring local talent. We understand the unique electrical needs of San Diego homes and businesses, from coastal corrosion to wildfire safety."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait, and neither do we. We're available around the clock to handle urgent electrical issues."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team consists of highly trained and licensed electricians with years of experience in San Diego County."
+        },
+        {
+          "title": "Guaranteed Workmanship",
+          "description": "We stand behind our work with a solid guarantee. If you're not satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Get a Free Electrical Estimate Today!",
+      "ctaSubline": "Contact Electrical Experts Of San Diego for reliable service and expert solutions."
+    },
+    "services": [
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Ensure your home's electrical system can handle modern power demands.",
+        "description": "Is your electrical panel outdated, overloaded, or showing signs of wear? Electrical Experts Of San Diego specializes in electrical panel upgrades and replacements. Many older San Diego homes, especially those in areas like North Park and Hillcrest, have panels that are no longer adequate for today's energy consumption. We'll assess your current electrical load, recommend the appropriate panel size, and install it safely and efficiently. \n\nUpgrading your electrical panel can prevent dangerous overloads, flickering lights, and potential fire hazards. It also allows you to add new appliances, electric vehicle chargers, or solar panels without stressing your electrical system. Our team is well-versed in all local codes and regulations, ensuring your upgrade meets the highest safety standards. We handle everything from permits to inspections, making the process seamless and stress-free for you. We use quality panels designed to withstand San Diego's climate, including the coastal salt air corrosion.",
+        "process": [
+          "Step 1: Thorough assessment of your current electrical panel and energy needs.",
+          "Step 2: Recommendation of the appropriate panel size and type.",
+          "Step 3: Secure necessary permits and schedule installation.",
+          "Step 4: Safe and efficient installation of the new electrical panel, followed by a comprehensive inspection."
+        ],
+        "benefits": [
+          "Increased electrical capacity",
+          "Improved safety and reliability",
+          "Prevention of overloads and fire hazards",
+          "Support for new appliances and technologies"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include flickering lights, tripped breakers, outdated panel, and the inability to add new electrical loads. If you're experiencing any of these issues, it's time to call Electrical Experts Of San Diego."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "Typically, an electrical panel upgrade can be completed in one day. However, it depends on the complexity of the installation and any unforeseen issues that may arise."
+          },
+          {
+            "question": "Do I need a permit for an electrical panel upgrade?",
+            "answer": "Yes, a permit is required for electrical panel upgrades in San Diego. We handle all the permitting process for you, ensuring compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Enhance your home's ambiance and energy efficiency with expert lighting solutions.",
+        "description": "From recessed lighting and chandeliers to outdoor landscape lighting, Electrical Experts Of San Diego provides comprehensive lighting installation services. We understand the importance of proper lighting for both aesthetics and functionality. Whether you're renovating your home in La Jolla or building a new office space in the Gaslamp Quarter, we can design and install a lighting system that meets your specific needs. \n\nWe specialize in energy-efficient LED lighting solutions that can save you money on your electricity bills while reducing your carbon footprint. Our team is experienced in installing a wide range of lighting fixtures, ensuring proper wiring and safe operation. We also offer smart lighting solutions that allow you to control your lights remotely and create custom lighting scenes. Considering the intense San Diego sun, proper indoor lighting is crucial for comfort and style.",
+        "process": [
+          "Step 1: Consultation to discuss your lighting needs and preferences.",
+          "Step 2: Design of a custom lighting plan that maximizes energy efficiency and aesthetics.",
+          "Step 3: Professional installation of all lighting fixtures and wiring.",
+          "Step 4: Testing and inspection to ensure proper operation and safety."
+        ],
+        "benefits": [
+          "Improved aesthetics and ambiance",
+          "Increased energy efficiency and cost savings",
+          "Enhanced safety and security",
+          "Customized lighting solutions"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and produces less heat than traditional lighting options. They also offer a wider range of color temperatures and dimming capabilities."
+          },
+          {
+            "question": "Can you install outdoor lighting?",
+            "answer": "Yes, we specialize in outdoor lighting installation, including landscape lighting, security lighting, and patio lighting. We use weather-resistant fixtures built to withstand San Diego's coastal climate."
+          },
+          {
+            "question": "Do you offer smart lighting solutions?",
+            "answer": "Yes, we offer a variety of smart lighting solutions that allow you to control your lights remotely, set schedules, and create custom lighting scenes."
+          }
+        ]
+      },
+      {
+        "slug": "outlet-and-switch-repair",
+        "name": "Outlet and Switch Repair",
+        "shortDescription": "Solve your outlet and switch problems with reliable repair services.",
+        "description": "Faulty outlets and switches can be a nuisance and a safety hazard. Electrical Experts Of San Diego provides prompt and reliable outlet and switch repair services throughout San Diego County. Whether you have a loose outlet, a malfunctioning switch, or a broken GFCI outlet, our team can diagnose the problem and provide an effective solution.\n\nWe understand the importance of safety when it comes to electrical repairs. Our electricians are trained to identify potential hazards and ensure all repairs are done to code. We use quality materials and follow industry best practices to ensure long-lasting results. Don't ignore those sparking outlets in your 1940s cottage near the beach – call us for a quick and safe fix.",
+        "process": [
+          "Step 1: Diagnostic testing to identify the cause of the problem.",
+          "Step 2: Repair or replacement of faulty outlets and switches.",
+          "Step 3: Inspection to ensure proper operation and safety.",
+          "Step 4: Clean up of the work area."
+        ],
+        "benefits": [
+          "Improved safety and reliability",
+          "Prevention of electrical hazards",
+          "Restoration of functionality",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "Why is my outlet not working?",
+            "answer": "There could be several reasons for a non-working outlet, including a tripped breaker, a loose connection, or a faulty outlet. Our electricians can quickly diagnose the cause and provide a solution."
+          },
+          {
+            "question": "What is a GFCI outlet?",
+            "answer": "A GFCI (Ground Fault Circuit Interrupter) outlet is designed to protect against electrical shock in wet areas, such as bathrooms and kitchens. It's important to have these outlets installed and functioning properly."
+          },
+          {
+            "question": "How often should I replace my outlets and switches?",
+            "answer": "Outlets and switches should be replaced if they are damaged, loose, or malfunctioning. It's also a good idea to replace them every 15-20 years to ensure optimal safety and performance."
+          }
+        ]
+      },
+      {
+        "slug": "wiring-services",
+        "name": "Wiring Services",
+        "shortDescription": "Comprehensive wiring solutions for new construction, remodels, and repairs.",
+        "description": "Electrical Experts Of San Diego offers a full range of wiring services for residential and commercial properties. Whether you're building a new home in Scripps Ranch, remodeling your kitchen in Pacific Beach, or need to rewire an older building in the Gaslamp Quarter, our team has the expertise to handle any wiring project.\n\nWe use quality wiring materials and follow all safety codes to ensure your electrical system is safe and reliable. We offer a variety of wiring services, including new wiring installation, rewiring, and electrical panel upgrades. We understand that properties near the coast require special wiring precautions due to salt air corrosion.",
+        "process": [
+          "Step 1: Assessment of your wiring needs and project requirements.",
+          "Step 2: Design of a safe and efficient wiring plan.",
+          "Step 3: Professional installation of all wiring and components.",
+          "Step 4: Testing and inspection to ensure proper operation and safety."
+        ],
+        "benefits": [
+          "Safe and reliable electrical system",
+          "Compliance with all safety codes",
+          "Increased property value",
+          "Customized wiring solutions"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between aluminum and copper wiring?",
+            "answer": "Copper wiring is the standard for modern electrical systems due to its superior conductivity and safety. Aluminum wiring was used in some older homes but can be a fire hazard if not properly maintained."
+          },
+          {
+            "question": "How do I know if my home needs rewiring?",
+            "answer": "Common signs include flickering lights, frequent breaker trips, and burning smells coming from outlets or switches. If you notice any of these signs, it's important to have your wiring inspected by a qualified electrician."
+          },
+          {
+            "question": "Do you offer electrical inspections?",
+            "answer": "Yes, we offer comprehensive electrical inspections to identify potential hazards and ensure your electrical system is safe and up to code."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-electrical-services",
+        "name": "Emergency Electrical Services",
+        "shortDescription": "24/7 emergency electrical services to handle urgent electrical issues.",
+        "description": "Electrical emergencies can happen at any time. Electrical Experts Of San Diego offers 24/7 emergency electrical services to handle urgent electrical issues throughout San Diego County. Whether you have a power outage, a downed power line, or a sparking electrical panel, our team is ready to respond quickly and safely.\n\nWe understand the stress and inconvenience that electrical emergencies can cause. Our experienced electricians are equipped to diagnose and repair a wide range of electrical problems, minimizing downtime and preventing further damage. We prioritize safety and take all necessary precautions to protect your home and family. San Diego's wildfire season highlights the importance of quick responses to electrical emergencies.",
+        "process": [
+          "Step 1: Immediate response to your emergency call.",
+          "Step 2: Rapid diagnosis of the electrical problem.",
+          "Step 3: Safe and efficient repair of the issue.",
+          "Step 4: Thorough inspection to ensure the problem is resolved."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Rapid response time",
+          "Safe and reliable repairs",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an electrical emergency?",
+            "answer": "Electrical emergencies include power outages, downed power lines, sparking electrical panels, and any situation that poses an immediate threat to safety."
+          },
+          {
+            "question": "How quickly can you respond to an emergency?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within an hour, depending on your location and the severity of the situation."
+          },
+          {
+            "question": "What should I do while waiting for an electrician to arrive?",
+            "answer": "Stay away from any downed power lines or exposed wires. If there is a fire, evacuate the building and call 911. Turn off the main breaker if it is safe to do so."
+          }
+        ]
+      },
+      {
+        "slug": "ev-charger-installation",
+        "name": "EV Charger Installation",
+        "shortDescription": "Expert installation of electric vehicle (EV) chargers for homes and businesses.",
+        "description": "As electric vehicles become more popular, Electrical Experts Of San Diego is here to help you install a convenient and reliable EV charger at your home or business. We offer a full range of EV charger installation services, from basic Level 2 chargers to high-speed DC fast chargers.\n\nWe'll assess your electrical capacity, recommend the appropriate charger for your vehicle and needs, and install it safely and efficiently. We handle all the necessary permits and inspections, making the process seamless for you. With the increasing popularity of EVs in San Diego, ensure your home is ready for the future of transportation.",
+        "process": [
+          "Step 1: Assessment of your electrical capacity and EV charging needs.",
+          "Step 2: Recommendation of the appropriate EV charger.",
+          "Step 3: Secure necessary permits and schedule installation.",
+          "Step 4: Safe and efficient installation of the EV charger, followed by a comprehensive inspection."
+        ],
+        "benefits": [
+          "Convenient and reliable EV charging at home or business",
+          "Increased property value",
+          "Support for sustainable transportation",
+          "Professional installation and safety"
+        ],
+        "faq": [
+          {
+            "question": "What is a Level 2 EV charger?",
+            "answer": "A Level 2 EV charger uses a 240-volt outlet and can charge your electric vehicle much faster than a standard 120-volt outlet."
+          },
+          {
+            "question": "How much does it cost to install an EV charger?",
+            "answer": "The cost of EV charger installation varies depending on the complexity of the installation, the type of charger, and any necessary electrical upgrades. We provide free estimates to help you determine the cost."
+          },
+          {
+            "question": "Are there any rebates or incentives for EV charger installation?",
+            "answer": "Yes, there may be rebates or incentives available from the state of California or your local utility company. We can help you identify and apply for any applicable incentives."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-electrical-services",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Reliable electrical solutions for businesses throughout San Diego County.",
+        "description": "Electrical Experts Of San Diego provides comprehensive commercial electrical services to businesses of all sizes. Whether you need electrical repairs, new wiring installation, or energy-efficient lighting upgrades, our team has the expertise to handle any commercial electrical project.\n\nWe understand the importance of minimizing downtime and ensuring the safety of your employees and customers. Our experienced electricians are equipped to diagnose and repair electrical problems quickly and efficiently. We also offer preventative maintenance services to help you avoid costly repairs and keep your electrical system running smoothly. From the Gaslamp Quarter to Sorrento Valley, we service businesses across San Diego’s diverse commercial landscape.",
+        "process": [
+          "Step 1: Consultation to discuss your commercial electrical needs.",
+          "Step 2: Development of a customized electrical plan.",
+          "Step 3: Professional installation and repair services.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Reduced downtime",
+          "Improved safety and reliability",
+          "Increased energy efficiency",
+          "Compliance with all electrical codes"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer electrical inspections for commercial properties?",
+            "answer": "Yes, we offer comprehensive electrical inspections to identify potential hazards and ensure your electrical system is safe and up to code."
+          },
+          {
+            "question": "Can you help me reduce my energy costs?",
+            "answer": "Yes, we offer a variety of energy-efficient lighting and electrical solutions that can help you reduce your energy costs and improve your bottom line."
+          },
+          {
+            "question": "Do you offer emergency electrical services for commercial properties?",
+            "answer": "Yes, we offer 24/7 emergency electrical services to handle urgent electrical issues at your commercial property."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Chula Vista",
+        "slug": "chula-vista-ca",
+        "state": "CA",
+        "content": "Electrical Experts Of San Diego is proud to offer comprehensive electrical services to the residents and businesses of Chula Vista, California. As a large and diverse community with a significant number of homes built in the 1970s and 1980s, we understand the specific electrical needs of Chula Vista properties. From updating outdated wiring and electrical panels to installing modern lighting and smart home systems, our experienced electricians are equipped to handle any project, big or small. \n\nWe're committed to providing reliable and efficient electrical solutions that ensure the safety and comfort of your home or business. Whether you're experiencing a power outage, need electrical repairs, or are planning a new construction project, Electrical Experts Of San Diego is here to serve you. We take pride in our workmanship and strive to exceed your expectations with every service call.",
+        "localContext": "Chula Vista, with its mild year-round climate, enjoys a vibrant community with many well-established suburban neighborhoods.",
+        "nearbyAreas": [
+          "San Diego",
+          "National City",
+          "Imperial Beach"
+        ]
+      },
+      {
+        "city": "Carlsbad",
+        "slug": "carlsbad-ca",
+        "state": "CA",
+        "content": "Electrical Experts Of San Diego provides expert electrical services to the coastal community of Carlsbad, California. We understand the unique needs of homes in this area, including the charming beach cottages and newer residences. Whether you need to upgrade your electrical panel, install landscape lighting, or address any other electrical issue, our skilled electricians are ready to assist you.\n\nWe are dedicated to providing prompt, professional, and reliable service. We know that electrical problems can be disruptive, so we strive to minimize any inconvenience and ensure your complete satisfaction. From troubleshooting electrical problems to new installations, Electrical Experts Of San Diego is the trusted choice for all your electrical needs in Carlsbad.",
+        "localContext": "Carlsbad, known for its beautiful beaches and mild year-round climate, features a mix of classic beach cottages and modern homes.",
+        "nearbyAreas": [
+          "Oceanside",
+          "Encinitas",
+          "Vista"
+        ]
+      },
+      {
+        "city": "Escondido",
+        "slug": "escondido-ca",
+        "state": "CA",
+        "content": "Electrical Experts Of San Diego is dedicated to providing top-quality electrical services to the residents and businesses of Escondido, California. With many ranch-style homes dating back to the 1960s and 1970s, Escondido properties often require specialized electrical attention. We are experienced in handling the electrical needs of older homes, including wiring upgrades, panel replacements, and safety inspections. \n\nOur team of licensed and insured electricians is committed to delivering exceptional service and ensuring the safety and reliability of your electrical system. We offer a wide range of services, from routine maintenance to complex installations, and we always strive to exceed your expectations. Trust Electrical Experts Of San Diego for all your electrical needs in Escondido.",
+        "localContext": "Escondido, enjoying a mild year-round climate, features many established neighborhoods with homes built in the mid-20th century.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Vista",
+          "Poway"
+        ]
+      },
+      {
+        "city": "San Diego",
+        "slug": "san-diego-ca",
+        "state": "CA",
+        "content": "Electrical Experts Of San Diego is proud to serve the diverse electrical needs of San Diego, CA. From historic homes in neighborhoods like Mission Hills to modern condos downtown, we've seen it all. We provide comprehensive electrical services, from troubleshooting simple issues to complete home rewiring projects. No matter the size or complexity of the job, we're committed to providing safe, reliable, and efficient solutions.\n\nOur team of licensed and experienced electricians understands the unique challenges of working in San Diego's varied architectural landscape. We prioritize safety and customer satisfaction, ensuring that every project is completed to the highest standards. Whether you need a new outlet installed, a panel upgrade, or assistance with a commercial electrical project, Electrical Experts Of San Diego is here to help.",
+        "localContext": "San Diego, with its diverse neighborhoods and sunny disposition, relies on dependable electrical services for homes and businesses alike.",
+        "nearbyAreas": [
+          "La Jolla",
+          "Pacific Beach",
+          "North Park"
+        ]
+      },
+      {
+        "city": "Oceanside",
+        "slug": "oceanside-ca",
+        "state": "CA",
+        "content": "Electrical Experts Of San Diego extends its expert services to the vibrant coastal city of Oceanside, CA. We understand the specific electrical needs of Oceanside residents, from beachfront properties to inland homes. Our services include everything from routine maintenance and repairs to complex installations and upgrades. We're committed to providing safe, reliable, and efficient electrical solutions to ensure your home or business is powered safely and effectively.\n\nWhether you're dealing with flickering lights, outdated wiring, or need to install new electrical systems, our team of licensed electricians is ready to assist you. We pride ourselves on our professionalism, attention to detail, and commitment to customer satisfaction. Trust Electrical Experts Of San Diego for all your electrical needs in Oceanside.",
+        "localContext": "Oceanside, with its beautiful beaches and growing community, requires reliable electrical services to support its residents and businesses.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Vista",
+          "San Marcos"
+        ]
+      },
+      {
+        "city": "Vista",
+        "slug": "vista-ca",
+        "state": "CA",
+        "content": "Electrical Experts Of San Diego is pleased to offer its comprehensive electrical services to the residents and businesses of Vista, CA. With a mix of older homes and new developments, Vista presents a variety of electrical needs. Our services encompass everything from basic repairs and maintenance to complete home rewiring and electrical panel upgrades. We are dedicated to providing safe, reliable, and efficient solutions tailored to your specific requirements.\n\nOur team of experienced and licensed electricians is committed to delivering exceptional workmanship and outstanding customer service. We understand the importance of a properly functioning electrical system, and we strive to ensure your home or business is powered safely and efficiently. Trust Electrical Experts Of San Diego for all your electrical needs in Vista.",
+        "localContext": "Vista offers a blend of residential and commercial properties, requiring skilled electrical services to maintain its infrastructure.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Oceanside",
+          "Escondido"
+        ]
+      },
+      {
+        "city": "San Marcos",
+        "slug": "san-marcos-ca",
+        "state": "CA",
+        "content": "Electrical Experts Of San Diego offers premier electrical solutions to the growing community of San Marcos, CA. Serving both residential and commercial clients, we are well-versed in the particular electrical demands of this area. Whether you're upgrading your home's electrical panel, installing new lighting fixtures, or need assistance with a commercial project, our team is equipped to handle it all. We pride ourselves on delivering prompt, efficient, and reliable service.\n\nOur licensed and insured electricians are committed to providing top-notch workmanship and ensuring the safety of your electrical system. From troubleshooting minor issues to managing complex installations, we approach every project with professionalism and attention to detail. Choose Electrical Experts Of San Diego for all your electrical needs in San Marcos.",
+        "localContext": "San Marcos, a thriving city with a mix of residential and commercial developments, depends on dependable electrical services for its continued growth.",
+        "nearbyAreas": [
+          "Vista",
+          "Escondido",
+          "Carlsbad"
+        ]
+      },
+      {
+        "city": "Encinitas",
+        "slug": "encinitas-ca",
+        "state": "CA",
+        "content": "Electrical Experts Of San Diego provides expert electrical services to the beautiful coastal community of Encinitas, California. Recognizing the unique needs of homes and businesses in Encinitas, from beachfront properties to charming residential areas, we offer a wide range of services. These include everything from routine maintenance and repairs to new installations and upgrades. Our focus is on ensuring your electrical systems are safe, efficient, and reliable.\n\nOur team of qualified and experienced electricians is dedicated to providing exceptional customer service and quality workmanship. We understand the importance of a properly functioning electrical system and strive to exceed your expectations on every project. Whether you need assistance with lighting, wiring, or any other electrical need, Electrical Experts Of San Diego is here to help.",
+        "localContext": "Encinitas, known for its beautiful beaches and relaxed atmosphere, relies on dependable electrical services to support its coastal lifestyle.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Solana Beach",
+          "Leucadia"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Electrical Experts Of San Diego did an amazing job upgrading our electrical panel. Our old panel was outdated and couldn't handle our new appliances. The team was professional, efficient, and explained everything clearly. We highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "We hired Electrical Experts Of San Diego to install recessed lighting in our living room. They did a great job, and the new lighting looks fantastic. There was a small delay due to a part shortage, but they communicated well and kept us informed throughout the process.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Outlet Repair",
+        "text": "I had a few outlets that weren't working, and Electrical Experts Of San Diego fixed them quickly and efficiently. The electrician was friendly and knowledgeable, and the price was very reasonable. I will definitely use them again in the future.",
+        "date": "2024-11-01"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "EV Charger Installation",
+        "text": "The team at Electrical Experts Of San Diego installed my EV charger perfectly. They were very helpful in choosing the right charger for my car and made the whole process easy. I'm very happy with their service!",
+        "date": "2024-10-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 5,
+        "service": "Emergency Electrical Service",
+        "text": "We had a power outage in the middle of the night, and Electrical Experts Of San Diego responded quickly and restored our power within an hour. They were professional, courteous, and a lifesaver!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Wiring Services",
+        "text": "Electrical Experts Of San Diego rewired our kitchen during a remodel. The work was done well and to code. We had one minor issue after the inspection, but they came back and fixed it promptly. Overall, a good experience.",
+        "date": "2024-08-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Diego Electrician | Electrical Experts",
+        "description": "Reliable San Diego electricians providing expert electrical services. Panel upgrades, lighting, repairs & more. Call today!"
+      },
+      "about": {
+        "title": "About Electrical Experts Of San Diego",
+        "description": "Learn about Electrical Experts Of San Diego. Licensed electricians serving San Diego with quality and integrity since 2012."
+      },
+      "services": {
+        "title": "Electrical Services | San Diego, CA",
+        "description": "Comprehensive electrical services in San Diego. Expert panel upgrades, lighting, wiring, and emergency repairs. Get a free estimate!"
+      },
+      "contact": {
+        "title": "Contact Us | Electrical Experts Of San Diego",
+        "description": "Contact Electrical Experts Of San Diego for reliable electrical services. Get a free quote for your project today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Electrical Experts",
+        "description": "Read reviews from satisfied customers of Electrical Experts Of San Diego. See why we're the trusted choice for electrical services."
+      },
+      "service-areas": {
+        "title": "Service Areas | San Diego Electrician",
+        "description": "Electrical Experts Of San Diego provides electrical services throughout San Diego County. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "outlet-and-switch-repair": "/images/service-outlet-and-switch-repair.webp",
+      "wiring-services": "/images/service-wiring-services.webp",
+      "emergency-electrical-services": "/images/service-emergency-electrical-services.webp",
+      "ev-charger-installation": "/images/service-ev-charger-installation.webp",
+      "commercial-electrical-services": "/images/service-commercial-electrical-services.webp"
+    },
+    "servicesResponsive": {
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outlet-and-switch-repair": {
+        "src": "/images/service-outlet-and-switch-repair.webp",
+        "srcset": "/images/service-outlet-and-switch-repair-400w.webp 400w, /images/service-outlet-and-switch-repair-800w.webp 800w, /images/service-outlet-and-switch-repair-1200w.webp 1200w, /images/service-outlet-and-switch-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wiring-services": {
+        "src": "/images/service-wiring-services.webp",
+        "srcset": "/images/service-wiring-services-400w.webp 400w, /images/service-wiring-services-800w.webp 800w, /images/service-wiring-services-1200w.webp 1200w, /images/service-wiring-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-electrical-services": {
+        "src": "/images/service-emergency-electrical-services.webp",
+        "srcset": "/images/service-emergency-electrical-services-400w.webp 400w, /images/service-emergency-electrical-services-800w.webp 800w, /images/service-emergency-electrical-services-1200w.webp 1200w, /images/service-emergency-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ev-charger-installation": {
+        "src": "/images/service-ev-charger-installation.webp",
+        "srcset": "/images/service-ev-charger-installation-400w.webp 400w, /images/service-ev-charger-installation-800w.webp 800w, /images/service-ev-charger-installation-1200w.webp 1200w, /images/service-ev-charger-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-electrical-services": {
+        "src": "/images/service-commercial-electrical-services.webp",
+        "srcset": "/images/service-commercial-electrical-services-400w.webp 400w, /images/service-commercial-electrical-services-800w.webp 800w, /images/service-commercial-electrical-services-1200w.webp 1200w, /images/service-commercial-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
